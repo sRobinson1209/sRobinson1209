@@ -1,6 +1,6 @@
 ## Hi there 👋 My name is Sierra. I am a student currently pursuing a degree in Computer Science with a minor in Data Science. 
 
- 🔭 I’m currently working on building my data analytic skills in R, SQL, and Python. I am also in th eprocess of expanding my portfolio with different projects involving solftware enginerring, data visualization and predictive models. 
+ 🔭 I’m currently working on building my data analytic skills in R, SQL, and Python. I am also in the process of expanding my portfolio with different projects involving solftware enginerring, data visualization and predictive models. 
  
  📫 How to reach me: sierra.robinson@bruins.belmont.edu
 
