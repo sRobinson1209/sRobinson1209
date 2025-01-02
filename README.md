@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Sierra. I am a student currently pursuing a degree in Computer Science with a minor in Data Science. 
+## Hi there 👋 My name is Sierra. I am a recent graduate from Belmont University with a Bachelors of Science in Computer Science. I have a minor in Data Science. 
 
  🔭 I’m currently working on building my data analytic skills in R, SQL, and Python. I am also in the process of expanding my portfolio with different projects involving solftware enginerring, data visualization and predictive models. 
  
