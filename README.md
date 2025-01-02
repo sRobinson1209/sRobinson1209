@@ -2,7 +2,7 @@
 
  🔭 I’m currently working on building my data analytic skills in R, SQL, and Python. I am also in the process of expanding my portfolio with different projects involving solftware enginerring, data visualization and predictive models. 
  
- 📫 How to reach me: sierra.robinson@bruins.belmont.edu
+ 📫 How to reach me: sierra.erobinson99@outlook.com
 
 <!--
 **sRobinson1209/sRobinson1209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
